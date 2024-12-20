@@ -3,7 +3,7 @@
 Bluetooth Control Android or BtC-android is a Android Application for controlling appliances upto 8 ports on Uno R3 or more boards via a Serial-to-Bluetooth connection on an Android device.
 
 ## Screenshots
-Will be uploaded soon.
+
 
 ## Features
  - Modifiable button names (Button Settings, Screenshot #3).
@@ -17,8 +17,8 @@ Will be uploaded soon.
 
 ## Instructions
  1. Pair Up with your HC05 in `Quick Settings > Bluetooth`.
- 2. Start BtC and select the same HC05 in the pop-up dialog.
- 3. Wait till connection suceeds (when the bottom text shows 'Connected').
+ 2. Start BtC and select the same `HC05` in the pop-up dialog.
+ 3. Wait till connection suceeds (when the bottom text shows `Connected`).
  4. Use Buttons 1-8 to toggle appliances connected to the board.
 
  E. Press and hold any button from 1-8 to change their name. (Screenshot #3)
